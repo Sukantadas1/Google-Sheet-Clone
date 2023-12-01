@@ -1,4 +1,4 @@
-let str = "SOURAV",
+let str = "Sourav",
   rows = 3;
 function callme(str, rows) {
   rows--;
